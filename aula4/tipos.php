@@ -9,9 +9,9 @@
     <div>
         <?php 
             $n=4;
-            $no="Maria";
-            $idade=18;
-            echo "$no tem $idade anos";
+            $nome="Osvaldo";
+            $idade=62;
+            echo "$nome tem $idade anos";
         ?>
     </div>
 </body>
