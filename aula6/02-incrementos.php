@@ -13,7 +13,7 @@
      $atual = $_GET["aa"];
      echo "O ano atual é $atual";
      echo "</br>O ano anterior é ". --$atual;
-     echo "</br>O ano posterior é ". ++$atual;
+     echo "</br>O ano posterior é ". ++$atual+
     
     ?>
     </div>
