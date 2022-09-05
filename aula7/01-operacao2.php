@@ -15,7 +15,7 @@
     $sit = ($nota1 + $nota2)/2;
     echo "A média entre $nota1 e $nota2 é $m <br/>";
     
-    echo "Situação do aluno é ".(($m<6)?"REPROVADO";"APROVADO");
+    echo "Situação do aluno é ".(($m<6)?"REPROVADO":"APROVADO");
     ?>
     </div>
 </body>
