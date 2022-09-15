@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width, initial-scale=1.0">
-    <title>Operadores</title>
+    <title>Funções Strings</title>
     <link rel="stylesheet" href="../_css/estilo.css">
 </head>
 <body>
